@@ -1,0 +1,11 @@
+Resumo da Execução e Tarefas deste Projeto
+
+Ao final de cada palestra os discentes deverão fazer um resumo com, no máximo, 30 linhas. 
+
+Cada discente matriculado na disciplina deve ao menos escrever duas perguntas para fazer ao palestrante e tentar fazer ao menos uma pergunta ao palestrante.
+
+O resumo e as perguntas (com ou sem respostas) devem ser enviadas via Moodle da disciplina de Engenharia de Software. Os links para upload dos resumos ou perguntas estão na sequência por palestra (PALESTRA 1, 2 ... 5)
+
+* As fotos (quando permitidas) serão anexadas neste projeto de ensino via processo SEI para controle do registro das atividades. 
+
+* Em todas as palestras haverá controle de frequência dos discentes. Serão emitidas declarações com horas de participação.
